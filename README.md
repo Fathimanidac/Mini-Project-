@@ -6,13 +6,9 @@ This project analyzes 120 years of Olympic Games data, covering athlete demograp
 
 The dashboard allows users to explore:
 
-
-		Medal distribution by country, sport, and athlete.
-  
-		Participation trends across different years and genders.
-  
-		Geographical representation of host cities and participating nations.
-  
-		Comparative analysis of countries’ performance over time.
+Medal distribution by country, sport, and athlete.
+Participation trends across different years and genders.
+Geographical representation of host cities and participating nations.
+Comparative analysis of countries’ performance over time.
 
 This visualization provides clear, insightful, and interactive exploration of Olympic history, helping users identify patterns, dominant nations, and shifts in participation over more than a century.
